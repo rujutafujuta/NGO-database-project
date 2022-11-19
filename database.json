@@ -1,0 +1,18 @@
+{
+    "people": [
+        {
+            "name": "None",
+            "address": null,
+            "phone number": 0,
+            "adhar card number": 0,
+            "reason for blacklist": "reason"
+        },
+        {
+            "name": "rujuta",
+            "address": "addre",
+            "phone number": 234,
+            "adhar card number": 123,
+            "reason for blacklist": "returned puppy 40"
+        }
+    ]
+}
